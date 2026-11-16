@@ -221,4 +221,4 @@ This project demonstrates practical skills in Python-based ETL development, data
 
 ## Author
 
-Air Quality Sensor Data Engineering – Week 2 Internship Project
+Arokia Benedict Ebenezar
